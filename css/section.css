@@ -98,11 +98,11 @@ section {
   }
   
   .pic1 {
-    background-image: url(/apple/images/macs.jpg);
+    background-image: url(apple/images/macs.jpg);
   }
 
   .pic2 {
-    background-image: url(/apple/images/watch.jpg);
+    background-image: url(apple/images/watch.jpg);
     margin-right: 12px;
     margin-bottom: 12px;
   }
@@ -122,11 +122,11 @@ section {
   }
 
   .pic3 {
-    background-image: url(/apple/images/speakers.jpg);
+    background-image: url(apple/images/speakers.jpg);
   }
 
   .pic4 {
-    background-image: url(/apple/images/lego.jpg);
+    background-image: url(apple/images/lego.jpg);
     margin-right: 12px;
     margin-bottom: 12px;
   }
@@ -140,7 +140,7 @@ section {
   }
 
   .pic5 {
-    background-image: url(/apple/images/card.jpg);
+    background-image: url(apple/images/card.jpg);
   }
 
   .pic5 img {
@@ -152,7 +152,7 @@ section {
   }
 
   .pic6 {
-    background-image: url(/apple/images/actress.jpg);
+    background-image: url(apple/images/actress.jpg);
     margin-right: 12px;
   }
 
