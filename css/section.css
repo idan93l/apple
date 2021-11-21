@@ -116,12 +116,7 @@ section {
     margin-top: 10px;
   }
 
-  .pic3 {
-    background-image: url(images/speakers.jpg);
-  }
-
   .pic4 {
-    background-image: url(images/lego.jpg);
     margin-right: 12px;
     margin-bottom: 12px;
   }
@@ -134,10 +129,6 @@ section {
     margin-top: 10px;
   }
 
-  .pic5 {
-    background-image: url(images/card.jpg);
-  }
-
   .pic5 img {
     margin-top: 60px;
   }
@@ -147,7 +138,6 @@ section {
   }
 
   .pic6 {
-    background-image: url(images/actress.jpg);
     margin-right: 12px;
   }
 
