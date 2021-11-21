@@ -96,13 +96,8 @@ section {
     background-position: center;
     cursor: pointer;
   }
-  
-  .pic1 {
-    background-image: url(images/macs.jpg);
-  }
 
   .pic2 {
-    background-image: url(images/watch.jpg);
     margin-right: 12px;
     margin-bottom: 12px;
   }
