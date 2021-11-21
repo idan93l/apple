@@ -1,6 +1,6 @@
 .head2 {
   height: 693px;
-  background-image: url(apple/images/iphone13pro.jpg);
+  background-image: url('/apple/images/iphone13pro.jpg');
   background-position: center;
   background-position-y: -45px;
   display: flex;
