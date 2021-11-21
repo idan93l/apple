@@ -1,0 +1,53 @@
+.head1 {
+  height: 693px;
+  background-color: var(--lightGrey);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+
+.head1 .giftLogo {
+  height: 90px;
+  margin-bottom: 10px;
+}
+
+.head1 h1 {
+  font-size: 55px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.head1 h2 {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 45px;
+}
+
+.head1 h2 a {
+  text-decoration: none;
+  color: var(--linkBlue);
+}
+
+.head1 h2 a:hover {
+  text-decoration: underline;
+}
+
+.wheels img {
+  padding: 0px 23px;
+  margin-bottom: 20px;
+  animation: spin 9s;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(-5deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+}
+

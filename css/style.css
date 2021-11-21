@@ -1,0 +1,24 @@
+:root {
+  --dark: #333333;
+  --lessDark: #777777;
+  --reddish: #E34140;
+  --lightGrey: #FBEDF9;
+  --fontGrey: #bebebe;
+  --linkBlue: #0066CC;
+  --lightLinkBlue: #2997FF;
+  --pinky: #FEC2EB;
+  --footerColor: #F5F5F7;
+  --borderLight: #d8d8d8;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  overflow-x: hidden;
+}
+

@@ -1,0 +1,40 @@
+.head3 {
+  height: 690px;
+  background-image: url(/apple/images/iphone13.jpg);
+  background-position: center;
+  background-position-y: -45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.head3 h1 {
+  font-size: 55px;
+  font-weight: 600;
+  margin-top: 45px;
+  color: var(--lightGrey);
+}
+
+.head3 h2 {
+  font-size: 27px;
+  font-weight: 450;
+  color: var(--pinky);
+}
+
+.head3 h3 {
+  font-size: 21px;
+  font-weight: 450;
+  margin-top: 12px;
+  color: var(--lightLinkBlue);
+}
+
+.head3 h3 a {
+  text-decoration: none;
+  color: var(--lightLinkBlue);
+
+}
+
+.head3 h3 a:hover {
+  text-decoration: underline;
+}

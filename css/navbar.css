@@ -1,0 +1,36 @@
+.mainNav {
+  height: 44px;
+  width: 100vw;
+  background-color: var(--dark);
+  font-size: 12px;
+  font-weight: 500;
+  position: fixed;
+}
+
+.mainNav ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  margin-right: 20px;
+}
+
+.mainNav ul li {
+  margin: -3px 21px;
+}
+
+.mainNav ul li a {
+  color: var(--fontGrey);
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.mainNav ul li a,
+.mainNav ul li a:after,
+.mainNav ul li a:before {
+  transition: all 0.2s;
+}
+.mainNav ul li a:hover {
+  color: var(--lightGrey);
+}

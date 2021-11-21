@@ -1,0 +1,38 @@
+.head2 {
+  height: 693px;
+  background-image: url(/apple/images/iphone13pro.jpg);
+  background-position: center;
+  background-position-y: -45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+
+.head2 h1 {
+  font-size: 55px;
+  font-weight: 600;
+  margin-top: 45px;
+}
+
+.head2 h2 {
+  font-size: 27px;
+  font-weight: 450;
+}
+
+.head2 h3 {
+  font-size: 21px;
+  font-weight: 450;
+  margin-top: 12px;
+}
+
+.head2 h3 a {
+  text-decoration: none;
+  color: var(--linkBlue);
+}
+
+.head2 h3 a:hover {
+  text-decoration: underline;
+}
