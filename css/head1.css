@@ -38,12 +38,12 @@
 .wheels img {
   padding: 0px 23px;
   margin-bottom: 20px;
-  animation: spin 9s;
+  animation: spin 6s ease-in-out;
 }
 
 @keyframes spin {
   0% {
-    transform: rotate(-5deg);
+    transform: rotate(-3deg);
   }
 
   100% {
