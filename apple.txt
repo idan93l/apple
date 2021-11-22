@@ -1,0 +1,14 @@
+Apple mock-up website:
+
+1) Brief scan on the website itself in order to find potential elements - scrolling    threw the website itself, and inspect it by using the developer tools. I used the    developer tools mostly for extracting data - images, fonts, svg files, favicon    and icons.
+
+2) I decided to build every element on its own (html and CSS) rather than building    all the elements on html and only than cascade them. I believe that it is better    to dedictate time for building, refining, and making the neccesary adjustments    for each element without the background noise of the other untouched html    elements.
+
+3) the main division in my opinion was, from top to bottom:
+ - Fixed flexed navbar.
+ - flexed red banner.
+ - 3 flexed headers. The first header contains 3 images that have a slight rotate       animation.
+ - Gridded main section.
+ - Flexed footer.
+
+4) For some reason, Netlify could not deploy the background images from the css         files. In order to fix this problem, I needed to to put this styling method in       the html file (inline CSS).
